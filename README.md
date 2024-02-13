@@ -9,3 +9,7 @@ Deactivate with...
 deactivate
 ```
 
+Run the app in the echo_bot dir
+```sh
+python app.py
+```
